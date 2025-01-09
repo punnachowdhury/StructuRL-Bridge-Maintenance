@@ -1,6 +1,6 @@
 # StructuRL Bridge Maintenance: Leveraging Reinforcement Learning 
 ## Punna Chowdhurry, Jane Slagle, and Diana Krmzian
-## Tufts CS 138 - Final Project
+
 
 ## Overview
 
